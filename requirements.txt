@@ -1,2 +1,4 @@
 onnx>=1.21.0
+onnxruntime>=1.26.0
 kaggle>=2.1.2
+numpy>=2.3.0
