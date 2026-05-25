@@ -1,0 +1,6 @@
+# Generated artifacts and downloaded Kaggle data
+data/
+submissions/*.zip
+submissions/models/
+__pycache__/
+*.pyc
